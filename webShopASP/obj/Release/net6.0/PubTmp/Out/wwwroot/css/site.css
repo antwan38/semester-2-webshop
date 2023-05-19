@@ -1,0 +1,86 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.GadgetBox {
+    background-color: rgba(0, 0, 0, 0.575);
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin-inline: auto;
+    
+    
+}
+
+.LogIn {
+    width: 500px;
+    margin-inline: auto;
+    margin-top: 34px;
+}
+
+.LoginError{
+    color: red;
+}
+
+.Info {
+    background-color: rgba(0, 0, 0, 0.575);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    margin-inline: auto;
+    padding: 30px;
+}
+.Gadgets {
+    background-color: rgba(0, 0, 0, 0.575);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    margin-inline: auto;
+    padding: 30px;
+}
+
+.delete {
+    position:absolute;
+    top: 15%;
+    right: 9%;
+}
+
+.Button {
+    color: #fff;
+    background-color: rebeccapurple;
+    border-color: #0d6efd;
+}
+
+.recensie {
+    border-bottom-style: dashed;
+    border-color: black;
+    padding-top: 51px;
+}
+
+
+
+
+

@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Account";
+}
+@model List<webShopASP.Models.GadgetViewModel>;
+
+
+    <body>
+        <div class="Info">
+            <h1>@ViewBag.Gebruiker.Naam</h1>
+            <h2>@ViewBag.Gebruiker.Emailadress</h2>
+            <h3>@ViewBag.Gebruiker.Postcode</h3>
+             <div class="Uitloggen">
+            <a asp-controller="Account" asp-action="Uitloggen">
+                <input type="button" class="Button" value="Uitloggen"  />
+            </a>
+            </div>
+            <div class="Bestellingen">
+            <a asp-controller="Gebruiker" asp-action="Bestellingen">
+                <input type="button" class="Button" value="Bestellingen"  />
+            </a>
+            </div>
+        </div>
+        <br />
+        <br />
+        
+       
+    @if (ViewBag.Gebruiker.IsVerkoper)
+    {
+        <div class="Gadgets">
+            <h1>Jouw Gadgets</h1>
+            <a asp-controller="Gadget" asp-action="VoegGadgetToe">
+                <input type="button" class="Button" value="Voeg toe"  />
+            </a>
+            <br/>
+             <br/>
+            @foreach(GadgetViewModel gadgetViewModel in Model)
+            {
+                <a asp-controller="Gadget" asp-action="GadgetInfo" asp-route-ID="@gadgetViewModel.GadgetNummer">
+                <input type="button" class="btn btn-primary" value="@gadgetViewModel.Naam"  />
+            </a>
+             <br/>
+            }
+        </div>
+    }
+</body>
+
+
+

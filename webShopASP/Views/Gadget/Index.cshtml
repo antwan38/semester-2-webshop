@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<webShopASP.Models.GadgetViewModel>
+
+<div class="text-center">
+    <h1 class="Webshop">Webshop</h1>
+        <p>@Context.Session.GetString("Naam")</p>
+
+    @foreach(GadgetViewModel gadget in Model)
+    {
+        <div class = "GadgetBox">
+           <div class = "GadgetPictureBox">
+               <img src="IMG/noPhotoFound.png" alt="No Photo">
+               </div>
+            @gadget.Naam
+           <br />
+          
+           <a asp-controller="Gadget" asp-action="GadgetPage" asp-route-id="@gadget.GadgetNummer">
+    <input  type="button" class="btn btn-primary" value="Bekijk"/>
+</a>
+        </div>
+        <br/>
+        <br/>
+        <br/>
+       
+
+    }
+</div>

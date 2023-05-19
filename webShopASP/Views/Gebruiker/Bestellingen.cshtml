@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Bestellingen";
+}
+@model List<webShopASP.Models.GadgetViewModel>
+<body>
+    
+    <div class="Gadgets">
+        <h1>Bestellingen</h1>
+    @foreach (GadgetViewModel gadgetViewModel in @Model)
+    {
+        <p>@gadgetViewModel.Naam @gadgetViewModel.Aantal</p>
+    }
+    </div>
+</body>

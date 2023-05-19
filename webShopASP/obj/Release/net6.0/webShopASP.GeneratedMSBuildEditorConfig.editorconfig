@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = webShopASP
+build_property.RootNamespace = webShopASP
+build_property.ProjectDir = C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\webShopASP\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\webShopASP
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Account/Account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Account/Registreer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3RyZWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Gadget/GadgetInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FkZ2V0XEdhZGdldEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Gadget/GadgetPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FkZ2V0XEdhZGdldFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Gadget/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FkZ2V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Gadget/NewGadget.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FkZ2V0XE5ld0dhZGdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Gebruiker/Bestellingen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VicnVpa2VyXEJlc3RlbGxpbmdlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Shared/TemporaryError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRlbXBvcmFyeUVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Winkelwagen/WinkelWagen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lua2Vsd2FnZW5cV2lua2VsV2FnZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antwa/OneDrive/Documenten/school ict/software/repos/webshopform/Webshopforms/webShopASP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r1t34lwe4q

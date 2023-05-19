@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\webShopASP\\webShopASP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\DataAccessLayerWebshop\\DataAccessLayerWebshop.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\DataAccessLayerWebshop\\DataAccessLayerWebshop.csproj",
+        "projectName": "DataAccessLayerWebshop",
+        "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\DataAccessLayerWebshop\\DataAccessLayerWebshop.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\LogicLayerWebshop\\LogicLayerWebshop.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\LogicLayerWebshop\\LogicLayerWebshop.csproj",
+        "projectName": "LogicLayerWebshop",
+        "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\LogicLayerWebshop\\LogicLayerWebshop.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\DataAccessLayerWebshop\\DataAccessLayerWebshop.csproj": {
+                "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\DataAccessLayerWebshop\\DataAccessLayerWebshop.csproj"
+              },
+              "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\webShopASP\\webShopASP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\webShopASP\\webShopASP.csproj",
+        "projectName": "webShopASP",
+        "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\webShopASP\\webShopASP.csproj",
+        "packagesPath": "C:\\Users\\Antwa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\webShopASP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Antwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\LogicLayerWebshop\\LogicLayerWebshop.csproj": {
+                "projectPath": "C:\\Users\\Antwa\\OneDrive\\Documenten\\school ict\\software\\repos\\webshopform\\Webshopforms\\LogicLayerWebshop\\LogicLayerWebshop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

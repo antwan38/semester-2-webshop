@@ -1,0 +1,79 @@
+﻿@{
+    ViewData["Title"] = "Gadget";
+}
+@model webShopASP.Models.GadgetViewModel
+
+@if (Model != null) 
+{
+    GadgetViewModel gadget = Model;
+    <body>
+<div class="block span3">
+    <p class="LoginError">@ViewBag.msg</p>
+        <div class="product"><img src="/IMG/noPhotoFound.png" />
+            
+            <div class="info">
+                <h4>@gadget.Naam</h4>
+                <span class="price">€@gadget.Prijs</span>
+                <br/>
+                <p class="Beschrijving">  @gadget.Beschrijving </p>
+                <br/>
+                @gadget.Aantal op voorraad
+                <br/>
+                <a class="btn btn-info pull-right" asp-route-GadgetID="@gadget.GadgetNummer" asp-controller="Winkelwagen" asp-action="AddToWinkelwagen">
+                <i class="icon-shopping-cart"></i> Koop nu</a>
+            </div>
+        </div>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<div>
+    <h3>Verkoper informatie</h3>
+    <h5>@gadget.Verkoper.Naam</h5>
+    <p>@gadget.Verkoper.Emailadress</p>
+    <p>@gadget.Verkoper.Postcode</p>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <div>
+        
+        <h3>Recensies</h3>
+        @if (Context.Session.GetInt32("ID") > 0)
+        {
+            <form method="post" asp-action="VoegToeRecensie" asp-controller="Recensie">
+                <input type="hidden" value="@gadget.GadgetNummer" name="gadgetID"/>
+                <textarea name="bericht" placeholder="Schrijf hier je recentie...."></textarea>
+                <br/>
+                <button>post</button>
+                <br/>
+                <br/>
+            </form>
+        }
+        @foreach(RecensieViewModel recensie in ViewBag.Recensies)
+        {
+            <div class="recensie">
+                <p>@recensie.bericht</p>
+                <p>@recensie.Gebruiker</p>
+            </div> 
+        }
+
+    </div>
+     
+    
+</body>
+}
+else
+{
+   <p> :( sorry de gadget die je probeert te zoeken is niet aanwezig ):</p>
+}
+
+        
+        
+    

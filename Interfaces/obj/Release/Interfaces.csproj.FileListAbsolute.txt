@@ -1,0 +1,6 @@
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\bin\Release\Interfaces.dll
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\obj\Release\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\obj\Release\Interfaces.dll
+C:\Users\Antwa\OneDrive\Documenten\school ict\software\repos\webshopform\Webshopforms\Interfaces\obj\Release\Interfaces.pdb

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "NewGadgetForm";
+}
+@model webShopASP.Models.GadgetViewModel;
+
+<body>
+    <div class="LogIn">
+    <p class="LoginError">@ViewBag.Info</p>
+    <form method="post" asp-controller="Gadget" asp-action="NewGadget">
+    
+        <div class="form-group">
+        <label asp-for="Naam">Naam</label>
+        <input class="form-control" type="text" asp-for="Naam" />
+        <span asp-validation-for="Naam"></span>
+    </div>
+    <br />
+     <div class="form-group">
+        <label asp-for="Prijs">Prijs</label>
+        <input class="form-control" type="number" step="0.01" min="1" asp-for="Prijs" />
+        <span asp-validation-for="Prijs"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="Categorie">Categorie</label>
+        <input class="form-control" type="text" asp-for="Categorie" />
+        <span asp-validation-for="Categorie"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="Aantal">Aantal</label>
+        <input class="form-control" type="range" value="1" min="1" max="100" oninput="this.nextElementSibling.value = this.value" asp-for="Aantal" />
+        <output>1</output>
+        <span asp-validation-for="Aantal"></span>
+    </div>
+    <br />
+    <div class="form-group">
+        <label asp-for="Beschrijving">Beschrijving</label>
+        <textarea class="form-control" asp-for="Beschrijving"> </textarea>
+        <span asp-validation-for="Beschrijving"></span>
+    </div>
+    <br />
+    <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Voeg toe</button></div>
+
+
+    </form> 
+     
+        
+    </div>
+</body>

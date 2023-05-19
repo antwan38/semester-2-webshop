@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Winkelwagen";
+}
+@model List<webShopASP.Models.GadgetViewModel>
+<body>
+    
+    <div class="Gadgets">
+        <p class="LoginError">@ViewBag.msg</p>
+        <h1>Winkelwagen</h1>
+        <form asp-controller="Winkelwagen" asp-action="BestelGadgetuitWinkelwagen">
+    @foreach (GadgetViewModel gadgetViewModel in @Model)
+    {
+        
+
+        
+        <p>@gadgetViewModel.Naam <input type="number" class="btn btn-primary" name="ids" value="@gadgetViewModel.Aantal"/> <a asp-controller="Winkelwagen" asp-action="DeleteGadgetuitWinkelwagen" asp-route-GadgetID="@gadgetViewModel.GadgetNummer">
+        <input  type="button" class="btn btn-primary" value="Delete"/>
+        </a></p>
+        
+    }
+    
+    <button  type="submit" class="btn btn-primary">Bestel</button>
+    </form>
+
+    </div>
+</body>

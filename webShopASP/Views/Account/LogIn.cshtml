@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "LogIn";
+}
+
+<body>
+    
+
+    <section class="LogIn">
+   
+        <p class= "LoginError"> @ViewBag.msg </p>
+    
+        <form method="post" asp-controller="Account" asp-action="LogIn">
+            <h2 class="visually-hidden">Login Form</h2>
+            <div class="illustration"><i class="icon ion-ios-navigate"></i></div>
+            <div class="mb-3"><input class="form-control"  type="text" name="Naam" placeholder="GebruikersNaam" /></div>
+            <div class="mb-3"><input class="form-control" type="password" name="Wachtwoord" placeholder="Wachtwoord" /></div>
+            <div class="mb-3"><button class="btn btn-primary d-block w-100" type="submit">Log In</button></div>
+        </form>
+        <a asp-controller="Account" asp-action="GoToRegistreer">Nog geen account</a>
+    </section>
+</body>

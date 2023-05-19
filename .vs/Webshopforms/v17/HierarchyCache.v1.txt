@@ -1,0 +1,375 @@
+﻿++Solution 'Webshopforms' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:Webshopforms.sln
+++PresentationLayer
+i:{00000000-0000-0000-0000-000000000000}:PresentationLayer
+++Dependencies
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:>560
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:>561
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:>564
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:>1060
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:>1573
+++Analyzers
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:analyzers
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:analyzers
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:analyzers
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:analyzers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:analyzers
+++Frameworks
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:frameworks
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:frameworks
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:frameworks
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:frameworks
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:frameworks
+++Projects
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:projects
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:projects
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:projects
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:projects
+++BestelForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\bestelform.cs
+++BesteloverzichtForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\besteloverzichtform.cs
+++fakeaccountForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\fakeaccountform.cs
+++GadgetForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\gadgetform.cs
+++NewgadgetForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\newgadgetform.cs
+++Program.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\program.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\program.cs
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\program.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\program.cs
+++VerkoopoverzichtForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\verkoopoverzichtform.cs
+++WebshopForm.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\webshopform.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++System.Windows.Forms.Analyzers
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\system.windows.forms.analyzers.dll
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\system.windows.forms.analyzers.dll
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\system.windows.forms.analyzers.dll
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\system.windows.forms.analyzers.dll
+++System.Windows.Forms.Analyzers.CSharp
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\program files\dotnet\packs\microsoft.windowsdesktop.app.ref\6.0.3\analyzers\dotnet\cs\system.windows.forms.analyzers.csharp.dll
+++Microsoft.NETCore.App
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\microsoft.netcore.app
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\microsoft.netcore.app
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\microsoft.netcore.app
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\testprojectwebshop\microsoft.netcore.app
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\microsoft.netcore.app
+++Microsoft.WindowsDesktop.App.WindowsForms
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\microsoft.windowsdesktop.app.windowsforms
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\microsoft.windowsdesktop.app.windowsforms
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\microsoft.windowsdesktop.app.windowsforms
+++LogicLayer
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\bin\debug\net6.0-windows\logiclayer.dll
+i:{00000000-0000-0000-0000-000000000000}:LogicLayer
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\bin\debug\net6.0-windows\logiclayer.dll
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\logiclayer.csproj
+++BestelForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\bestelform.designer.cs
+++BestelForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\bestelform.resx
+++BesteloverzichtForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\besteloverzichtform.designer.cs
+++BesteloverzichtForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\besteloverzichtform.resx
+++fakeaccountForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\fakeaccountform.designer.cs
+++fakeaccountForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\fakeaccountform.resx
+++GadgetForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\gadgetform.designer.cs
+++GadgetForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\gadgetform.resx
+++NewgadgetForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\newgadgetform.designer.cs
+++NewgadgetForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\newgadgetform.resx
+++VerkoopoverzichtForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\verkoopoverzichtform.designer.cs
+++VerkoopoverzichtForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\verkoopoverzichtform.resx
+++WebshopForm.Designer.cs
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\webshopform.designer.cs
+++WebshopForm.resx
+i:{507a9bc6-b04e-474e-b681-a7b3b50c2cd4}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\presentationlayer\webshopform.resx
+++Properties
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\properties\
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\properties\
+++Bestelling.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\bestelling.cs
+++BestellingContainer.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\bestellingcontainer.cs
+++Gadget.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\gadget.cs
+++GadgetContainer.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\gadgetcontainer.cs
+++Gebruiker.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\gebruiker.cs
+++Packages
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:packages
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:packages
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:packages
+++Resources.resx
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\properties\resources.resx
+++System.Data.SqlClient (4.8.3)
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:>1242
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:>1831
+++DataAccessLayer
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\bin\debug\net6.0-windows\dataaccesslayer.dll
+i:{00000000-0000-0000-0000-000000000000}:DataAccessLayer
+++Resources.Designer.cs
+i:{75eb9afa-9769-4cd4-a8c8-4b85cb24f678}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopforms\properties\resources.designer.cs
+++BestellingDAL.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\bestellingdal.cs
+++BestellingDTO.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\bestellingdto.cs
+++ClassDiagramDataAccessLayer.cd
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\classdiagramdataaccesslayer.cd
+++Database.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\database.cs
+++GadgetDAL.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\gadgetdal.cs
+++GadgetDTO.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\gadgetdto.cs
+++GebruikerDAL.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\gebruikerdal.cs
+++GebruikerDTO.cs
+i:{5006fef9-8235-49e6-a112-d5f681d707f8}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\dataaccesslayer\gebruikerdto.cs
+++TestProjectWebshop
+i:{00000000-0000-0000-0000-000000000000}:TestProjectWebshop
+++UnitTest1.cs
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\testprojectwebshop\unittest1.cs
+++coverlet.collector (3.1.0)
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:>1269
+++Microsoft.NET.Test.Sdk (16.11.0)
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:>1267
+++MSTest.TestAdapter (2.2.7)
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:>1271
+++MSTest.TestFramework (2.2.7)
+i:{8cb2edb8-ab54-4665-a803-55f68bf811df}:>1265
+++webShopASP
+i:{00000000-0000-0000-0000-000000000000}:webShopASP
+++Connected Services 
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:>1571
+++No service dependencies discovered
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:>1572
+++Microsoft.AspNetCore.Analyzers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.Extensions.Logging.Generators
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\microsoft.aspnetcore.app
+++launchSettings.json
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\properties\launchsettings.json
+++wwwroot
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\
+++css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\css\
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\js\
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\
+++favicon.ico
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\favicon.ico
+++Controllers
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\controllers\
+++HomeController.cs
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\controllers\homecontroller.cs
+++Models
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\models\
+++ErrorViewModel.cs
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\models\errorviewmodel.cs
+++GadgetViewModel.cs
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\models\gadgetviewmodel.cs
+++Views
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\
+++Home
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\home\
+++Index.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\home\index.cshtml
+++Privacy.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\home\privacy.cshtml
+++Shared
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\shared\
+++_Layout.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\_viewstart.cshtml
+++appsettings.json
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\appsettings.json
+++site.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\css\site.css
+++site.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\js\site.js
+++bootstrap
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\
+++jquery
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\
+++jquery-validation
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\appsettings.development.json
+++dist
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\dist\
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\license.txt
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{46547a3d-c74d-48b7-bd1f-d98f48925f00}:c:\users\antwa\onedrive\documenten\school ict\software\repos\webshopform\webshopforms\webshopasp\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
